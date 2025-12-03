@@ -23,6 +23,6 @@
     </a>
 </p>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lulu929&show_icons=true&locale=en&layout=compact" alt="lulu929" width="40%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=lulu929&show_icons=true&locale=en" alt="lulu929" width="40%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TELI6&show_icons=true&locale=en&layout=compact" alt="lulu929" width="40%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=TELI6&show_icons=true&locale=en" alt="lulu929" width="40%"/>
 </div>
